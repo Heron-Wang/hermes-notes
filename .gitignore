@@ -1,0 +1,6 @@
+*.db
+*.json
+__pycache__/
+.venv/
+*.swp
+.DS_Store
